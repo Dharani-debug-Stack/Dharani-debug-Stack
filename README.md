@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **MERN stack project**
 
-- 💬 Ask me about **www.linkedin.com/in/dharaniarungulavan**
-
 - 📫 How to reach me **dharaniwebdev@gmail.com**
 
 - ⚡ Fun fact **I debug my life like I debug my code one issue at a time**
